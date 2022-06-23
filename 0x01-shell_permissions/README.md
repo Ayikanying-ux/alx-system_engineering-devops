@@ -29,3 +29,7 @@
 *chmod ugo+x hello*
 
 ```adds execution permission to the owner, the group owner and the other users, to the file hello```
+
+*chmod 753 hello*
+
+```sets the mode of the file hello to -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello```
