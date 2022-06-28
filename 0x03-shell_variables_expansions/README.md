@@ -64,4 +64,6 @@
 
 ```Task 15 Everyone is a proponent of strong encryption```
 
+* cat -n | grep [13579][[:space:]] | tr -s ' ' | cut -f2
 
+```that prints every other line from the input, starting with the first line.```
