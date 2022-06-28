@@ -59,3 +59,9 @@
 * printf '%x\n' $DECIMAL
 
 ```converts a number from base 10 to base 16```
+
+* tr 'a-zA-Z' 'n-za-mN-ZA-M'
+
+```Task 15 Everyone is a proponent of strong encryption```
+
+
