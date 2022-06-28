@@ -23,3 +23,7 @@
 * set 
 
 ```lists all local variables and environment variables, and functions```
+
+* BEST="School"
+
+```creates a variable BEST adn sets the value to School```
