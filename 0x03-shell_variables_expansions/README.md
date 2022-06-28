@@ -19,3 +19,7 @@
 * printenv
 
 ```lists environment variables```
+
+* set 
+
+```lists all local variables and environment variables, and functions```
