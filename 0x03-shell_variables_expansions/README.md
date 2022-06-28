@@ -27,3 +27,7 @@
 * BEST="School"
 
 ```creates a variable BEST adn sets the value to School```
+
+* export BEST="School"
+
+```creates a global variable BEST and sets the value to School```
