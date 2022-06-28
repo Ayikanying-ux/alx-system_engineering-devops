@@ -47,3 +47,8 @@
 * echo $((2#$BINARY))
 
 ```converts a number from base 2 to base 10```
+
+* echo {a..z}{a..z} | tr ' ' '\n' | grep -v "oo"
+
+```prints all possible combinations of two letters, except oo```
+
