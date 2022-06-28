@@ -15,3 +15,7 @@
 * find $PATH -mindepth 1 -type d | wc -l
 
 ```Create a script that counts the number of directories in the PATH```
+
+* printenv
+
+```lists environment variables```
