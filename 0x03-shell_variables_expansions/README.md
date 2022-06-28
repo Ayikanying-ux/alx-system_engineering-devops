@@ -31,3 +31,7 @@
 * export BEST="School"
 
 ```creates a global variable BEST and sets the value to School```
+
+* echo $((128+TRUEKNOWLEDGE))
+
+```prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line```
