@@ -55,3 +55,7 @@
 * printf '%.2f\n' $NUM
 
 ```prints a number with two decimal places, followed by a new line```
+
+* printf '%x\n' $DECIMAL
+
+```converts a number from base 10 to base 16```
